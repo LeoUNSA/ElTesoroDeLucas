@@ -1,0 +1,15 @@
+﻿  Enemy.cpp
+  main.cpp
+C:\Users\Leo\Documents\CComp-SFML-main\main.cpp(17,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Leo\Documents\CComp-SFML-main\main.cpp(45,49): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Leo\Documents\CComp-SFML-main\main.cpp(45,31): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Generando código...
+  Gamev2.vcxproj -> C:\Users\Leo\Documents\CComp-SFML-main\x64\Debug\Gamev2.exe

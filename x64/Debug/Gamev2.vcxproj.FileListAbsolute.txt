@@ -1,0 +1,2 @@
+D:\juego\gamev2\Gamev2\x64\Debug\Gamev2.exe
+C:\Users\Leo\Documents\CComp-SFML-main\x64\Debug\Gamev2.exe
